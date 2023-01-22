@@ -9,7 +9,7 @@ share: true
 comments: true
 ---
 
-![numbers](/img/numbers.gif)
+![numbers](assets/img/numbers.gif)
 
 <p style="text-align: center; font-size:20px; font-weight: bold;">
 <a href="www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow">Click here for my O'Reilly blog post</a></p>
