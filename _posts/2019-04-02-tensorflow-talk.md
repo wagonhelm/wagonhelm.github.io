@@ -9,7 +9,7 @@ share: true
 comments: true
 ---
 
-![nn](assets/img/nn.jpg)
+![nn](/assets/img/nn.jpg)
 
 <p style="text-align: center; font-size:20px; font-weight: bold;">
 <a href="https://colab.research.google.com/drive/11vG8vblQ8N1Nips7SjjlaQbCrMqHDHnR">Click here for Google Collab</a></p>

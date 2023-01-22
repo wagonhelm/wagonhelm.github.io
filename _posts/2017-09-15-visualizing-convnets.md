@@ -9,7 +9,7 @@ share: true
 comments: true
 ---
 
-![weights](assets/img/weights.gif)
+![weights](/assets/img/weights.gif)
 
 <p style="text-align: center; font-size:20px; font-weight: bold;">
 <a href="https://www.oreilly.com/ideas/visualizing-convolutional-neural-networks">Click here for my O'Reilly blog post</a></p>
