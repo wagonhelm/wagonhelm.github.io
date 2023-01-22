@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: '/PROJECT_NAME'
+baseurl:
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -21,7 +21,7 @@ timezone:
 
 title: Justin's Blog                         # the main title
 
-tagline: A blog about robots and computing science    # it will display as the sub-title
+tagline: A blog about robots and CS    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   My blog where I talk about computing science, robots, and dreams of hiking the himalayas.
