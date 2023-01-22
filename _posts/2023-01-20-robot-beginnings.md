@@ -5,7 +5,6 @@ excerpt: "This Semester I'm ecstatic to be a TA for CMPUT 412 - Experimental mob
 categories: [Building a Bot]
 tags: [Robotics, Embedded]
 share: true
-img: "https://www.desicomments.com/wp-content/uploads/2017/02/Happy-Smiley-Image.jpg"
 comments: true
 ---
 

@@ -7,7 +7,6 @@ tags: [TensorFlow]
 link: https://www.oreilly.com/learning/not-another-mnist-tutorial-with-tensorflow
 share: true
 comments: true
-image: /img/numbers.gif
 ---
 
 ![numbers](/img/numbers.gif)
