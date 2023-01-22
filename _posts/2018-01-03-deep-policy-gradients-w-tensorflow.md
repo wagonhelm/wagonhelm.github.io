@@ -9,7 +9,7 @@ share: true
 comments: true
 ---
 
-![numbers](/img/doom.gif)
+![numbers](/assets/img/doom.gif)
 
 <p style="text-align: center; font-size:20px; font-weight: bold;">
 <a href="https://www.oreilly.com/ideas/reinforcement-learning-with-tensorflow">Click here for my O'Reilly blog post</a></p>
