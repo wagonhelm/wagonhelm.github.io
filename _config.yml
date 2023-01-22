@@ -44,9 +44,10 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/wagonhelm      # change to your twitter homepage
     - https://github.com/wagonhelm       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/wagonhelm
+    # Uncomment below to add more social links
+    - https://www.facebook.com/username
+    
 
 google_site_verification:               # fill in to your verification string
 
@@ -87,7 +88,7 @@ avatar: /favicon.png
 toc: true
 
 comments:
-  active: giscus       # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active:       # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: wagonhelm-github-io   # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
