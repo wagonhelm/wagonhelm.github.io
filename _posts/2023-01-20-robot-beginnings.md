@@ -58,7 +58,7 @@ stall out for too long it could possibly burn out.  I could send these using my 
 a microcontroller/embedded system.  
 
 
-#### Choosing an embedded system
+### Choosing an embedded system
 
 Though the Jetson Nano has plenty of GPIO for reading values from all 
 kinds of sensors, it simply will not suffice to read my sensors fast enough.
@@ -79,7 +79,7 @@ Unfortunately, the Jetson Nano does not support CAN bus (though almost all newer
 models do).  I chose to get a [USB2CAN-Module](https://www.inno-maker.com/product/usb-can/)
 which works great as a plug-and-play solution on Linux.  No drivers are required.
 
-#### Cameras
+### Cameras
 
 On top of the regular Raspberry Pi camera I wanted a stereo camera for better
 obstacle detection and for improving [SLAM](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping).
@@ -88,7 +88,7 @@ a proprietary port I had to buy a USB adaptor and a buck converter to up one of
 my 5V rails to 12V to power it.  The Kinect should only require 1A bringing
 my total max current draw to 6.9A, nice.
 
-#### Extra Sensors / Hardware
+### Extra Sensors / Hardware
 
 I maybe got a little carried away but if I had a sensor I wasn't using and
 room for it on the robot I threw it on. Extra sensors include:
@@ -103,7 +103,7 @@ All of these sensors bring my total current draw to ~7.2A so everything should b
 I had to add a 5V to 3.3V logic converter for my motors as well since the encoders operated at 5V and my teensy
 reads at 3.3V.
 
-#### Soldering it all together
+### Soldering it all together
 
 Since I had no real concrete plan for this I mainly just soldered things onto a solderable bread board as I needed.
 As I soldered I loosely inspected using a voltmeter ensuring lines were shorted where they should be and nowhere else.
