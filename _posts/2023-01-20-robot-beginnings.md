@@ -115,7 +115,7 @@ is always my most favourite part, but here it is!
 
 ![front](/assets/img/garbage1.png)
 ![port](/assets/img/garbage2.png)
-![starbord](/assets/img/garbage2.png)
+![starbord](/assets/img/garbage3.png)
 
 On a final closing note, I really love Jekyll static pages, but the setup has always been an absolute nuisance.  I found this
 new [docker-compose container](https://github.com/BretFisher/jekyll-serve) that just works great, docker-compose up, and I'm
